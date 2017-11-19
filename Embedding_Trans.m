@@ -2,6 +2,7 @@
 % bandpassed EEG recordings
 % Author: Carlos Loza
 % carlos85loza@gmail.com
+
 %%
 function [X_M_snippet_tr, alph_tr, alph_all] = Embedding_Trans(X,M)
 % INPUTS:
