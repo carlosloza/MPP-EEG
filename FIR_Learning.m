@@ -1,5 +1,6 @@
 % Function that estimates the cluster centroids, prototype M-snippets,
 % dictionary atoms, or filter bank elements for a particular EEG rhythm
+% Training stage
 % Author: Carlos Loza
 % carlos85loza@gmail.com
 
