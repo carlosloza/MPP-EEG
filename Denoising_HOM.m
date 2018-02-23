@@ -29,6 +29,7 @@ for i = 1:n_tr
     idx = find(beta_aux >= th);
     X_PhEv = [X_PhEv X_M_snippet_tr{i,1}(:,idx)];
 end
+
 end
 
 %%
