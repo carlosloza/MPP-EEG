@@ -83,7 +83,6 @@ for it = 1:n_it
         dist_cluster_it{it,1} = dist_cluster_it_aux{1,it};
     end
 end
-
 end
 
 %%
